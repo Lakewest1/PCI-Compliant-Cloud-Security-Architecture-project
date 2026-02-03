@@ -1,6 +1,6 @@
 # Designing a PCI-Compliant Cloud System for Securing Customer Payment Data
 
-**Role:** Cloud & Application Security Engineer  
+**Role:** Cloud Security & DevSecOp Engineer  
 **Year:** 2025  
 
 This project demonstrates a secure middle-layer cloud solution using **AWS PrivateLink** and **Cloudflare WAF** to protect sensitive customer data, including CHD, PII, and product information.
